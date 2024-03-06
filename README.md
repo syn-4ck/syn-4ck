@@ -14,7 +14,8 @@
 </p>
 <p align="center">
   <a href="https://www.julianfonticoba.es/">My webpage</a> •
-  <a href="https://fafnir-sec.syn-4ck.com/">fafnir-sec</a>
+  <a href="https://fafnir-sec.syn-4ck.com/">fafnir-sec</a> •
+  <a href="https://pynipper-ng.readthedocs.io/">pynipper-ng</a>
 </p>
 
 ---
@@ -22,5 +23,7 @@
 #### My core projects
 
 [AppSec Catalog](https://github.com/syn-4ck/AppSec-Catalog): A catalog of tools and resources related with Application Security an DevSecOps
+
 [fafnir-sec](https://github.com/syn-4ck/fafnir-sec): fafnir-sec is an open-source tool that allows for the complete automation of launching different security tools detecting vulnerabilities in the application's code
+
 [pynipper-ng](https://github.com/syn-4ck/pynipper-ng): Configuration security analyzer for network devices. Pynipper-ng is an evolution of nipper-ng, updated and translated to python
