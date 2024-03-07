@@ -22,7 +22,6 @@
 
 #### My core projects
 
-[AppSec Catalog](): A catalog of tools and resources related with Application Security an DevSecOps
 <div align="center">
 
 [![AppSec-Catalog](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=AppSec-Catalog&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/AppSec-Catalog)
