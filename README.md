@@ -22,8 +22,12 @@
 
 #### My core projects
 
-[AppSec Catalog](https://github.com/syn-4ck/AppSec-Catalog): A catalog of tools and resources related with Application Security an DevSecOps
+[AppSec Catalog](): A catalog of tools and resources related with Application Security an DevSecOps
+<div align="center">
 
-[fafnir-sec](https://github.com/syn-4ck/fafnir-sec): fafnir-sec is an open-source tool that allows for the complete automation of launching different security tools detecting vulnerabilities in the application's code
+[![AppSec-Catalog](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=AppSec-Catalog&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/AppSec-Catalog)
 
-[pynipper-ng](https://github.com/syn-4ck/pynipper-ng): Configuration security analyzer for network devices. Pynipper-ng is an evolution of nipper-ng, updated and translated to python
+[![fafnir-sec](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=fafnir-sec&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/fafnir-sec)
+[![pynipper-ng](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=pynipper-ng&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/pynipper-ng)
+
+</div>
