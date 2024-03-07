@@ -18,6 +18,12 @@
   <a href="https://pynipper-ng.readthedocs.io/">pynipper-ng</a>
 </p>
 
+<div align="center">
+    
+![syn-4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=syn-4ck&show_icons=true&theme=material-palenight)
+
+</div>
+
 ---
 
 #### My core projects
