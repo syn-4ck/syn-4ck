@@ -26,7 +26,7 @@
 
 ---
 
-#### My core projects
+## My core projects
 
 <div align="center">
 
@@ -34,5 +34,18 @@
 
 [![fafnir-sec](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=fafnir-sec&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/fafnir-sec)
 [![pynipper-ng](https://github-readme-stats.vercel.app/api/pin?username=syn-4ck&repo=pynipper-ng&theme=material-palenight&hide_border=true)](https://github.com/syn-4ck/pynipper-ng)
+
+</div>
+
+---
+
+## My contributions
+
+<div align="center">
+
+[![DefectDojo](https://github-readme-stats.vercel.app/api/pin?username=DefectDojo&repo=django-DefectDojo&theme=material-palenight&hide_border=true)](https://github.com/DefectDojo/django-DefectDojo)
+
+[![reptor](https://github-readme-stats.vercel.app/api/pin?username=Syslifters&repo=reptor&theme=material-palenight&hide_border=true)](https://github.com/Syslifters/reptor)
+[![reptor](https://github-readme-stats.vercel.app/api/pin?username=Yelp&repo=detect-secrets&theme=material-palenight&hide_border=true)](https://github.com/Yelp/detect-secrets)
 
 </div>
