@@ -42,8 +42,8 @@
 <div align="center">
 
 [![DefectDojo](https://github-readme-stats.vercel.app/api/pin?username=DefectDojo&repo=django-DefectDojo&theme=material-palenight&hide_border=true)](https://github.com/DefectDojo/django-DefectDojo)
+[![detect-secrets](https://github-readme-stats.vercel.app/api/pin?username=Yelp&repo=detect-secrets&theme=material-palenight&hide_border=true)](https://github.com/Yelp/detect-secrets)
 
 [![reptor](https://github-readme-stats.vercel.app/api/pin?username=Syslifters&repo=reptor&theme=material-palenight&hide_border=true)](https://github.com/Syslifters/reptor)
-[![detect-secrets](https://github-readme-stats.vercel.app/api/pin?username=Yelp&repo=detect-secrets&theme=material-palenight&hide_border=true)](https://github.com/Yelp/detect-secrets)
 
 </div>
